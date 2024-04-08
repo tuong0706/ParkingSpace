@@ -1,0 +1,1 @@
+Bài toán Nhận diện sức chứa bãi đậu xe dựa trên hình ảnh (Parking Space Occupancy) bao gồm các thư viện như: os, io, time, request, zipfile, torch, numpy, matplotlib, và RCNN để nhận diện vị trí đỗ xe. Bài toán sử dụng một bộ dữ liệu mới để phân loại chỗ đậu xe dựa trên hình ảnh và đề xuất một mô hình cơ sở đơn giản đạt được độ chính xác 98% trên các bãi đậu xe không nhìn thấy.
